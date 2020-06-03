@@ -24,7 +24,7 @@ function perdirPersonaje (id,callback)
         
     }
 
-//id =1,2,3,4,5
+//id =1,2,3,4,5 Sin que el id:1 sea ejecutado la funcion callback no se ejecuta
 perdirPersonaje(1, function()
     {
         perdirPersonaje(2, function()
