@@ -1,8 +1,20 @@
 
-
+/* 
+    -------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        CONECTAR CON EL DOM
+    -------------------------------
+*/
 
 /*
     Contactar con el DOM
+*/
+
+/* 
+    --------------------------------
+        CONTACTAR CON EL DOM
+    --------------------------------
 */
 
 
@@ -20,6 +32,12 @@ console.log(h1.innerHTML);
 console.log(h1.textContent);
 
 
+
+/* 
+    -----------------
+        MODIFICAR
+    -----------------
+*/
 //asi se manipula el HTML desde JavaScript
 // modificar el HTML
 h1.innerHTML = 'Nuevo Titulo'; 
@@ -52,6 +70,12 @@ console.log(parrafo);
 parrafo.style.color ="gren";
 parrafo.style.width = "200px";
 
+
+/* 
+    --------------
+        EVENTO
+    --------------
+*/
 
 
 /*
