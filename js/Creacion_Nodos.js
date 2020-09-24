@@ -1,18 +1,43 @@
-/*
-    Creacion de elementos HTML a traves del DOM 
-        - Crear nodo de tipo de Elemento
-        - 
-
+  
+/* 
+    --------------------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        cREACIÓN DE 
+    --------------------------------------------
 */
 
+
+/*
+   - Creacion de elementos HTML a traves del DOM 
+        - Crear nodo de tipo de Elemento.
+*/
+
+
+/* 
+    --------------------------------
+        CREAR NODO TIPO ELEMENTO
+    --------------------------------
+*/
 
 // Crear nodo de tipo de Elemento
 var parrafo = document.createElement('p');
 
+/* 
+    --------------------------------
+        CREAR NODO TIPO TEXTO
+    --------------------------------
+*/
 
 //Crear nodo de tipo Text 
 var contenido = document.createTextNode('Hola Mundo');
 
+
+/* 
+    --------------------------------
+        AÑADIR NODO COMO HIJO
+    --------------------------------
+*/
 
 //Añadir el nodo Text como hijo del nodo Element 
 parrafo.appendChild(contenido);
@@ -27,9 +52,10 @@ document.body.appendChild(parrafo);
 
 
 
-/*
-    Eliminacion de NODOS
-        - 
+/* 
+    ----------------------------
+        ELIMINACIÓN DE NODOS
+    ----------------------------
 */
 
 
