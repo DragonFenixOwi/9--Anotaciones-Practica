@@ -24,4 +24,4 @@
         - 4 maneras de acceder al DOM
     
    - Nuevo
-      - Ejemplo Sólido de CALLBACK 
+      - Ejemplo Sólido de CALLBACK con la API de Star Wars
