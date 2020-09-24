@@ -1,7 +1,9 @@
-
-/*
-    Atributos
-        - 
+/* 
+    -------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        ATRIBUTOS
+    -------------------------------
 */
 
 
