@@ -1,9 +1,17 @@
+/* 
+    -------------------------------
+        Author : Osvaldo Aquino
+        NickName: Owi
+        MÓDULOS
+    -------------------------------
+*/
+
 
 
 /*
-    ---------------
-        MODULOS 
-    -----------------
+    -------------------
+        MATH.RANDOM
+    -------------------
 */
 
 /*
@@ -31,9 +39,9 @@ numRandom();
 
 
 /*
-    ---------------
-        LINEAS DE ACCION
-    -----------------
+    ------------------------
+        LINEAS DE ACCIÓN
+    ------------------------
 */
 
 
@@ -51,8 +59,8 @@ numRandom();
 
 
 /*
-    ---------------
-        DOM
+    -----------------
+           DOM
     -----------------
 */
 
@@ -66,11 +74,12 @@ numRandom();
         Ejemplo 
         - Objeto(document).metodo(' id o array')
     
-    - Los 4 accesos (quiero guardar,archivar,etc.) para manipular la informacion son
-        -document.getElementById('')
-        -document.getElementsByTagName('')
-        -document. ('')
-        -document. ('')
+    - 4 Formas de acceder a etiquetas de HTML para manipular la informacion 
+        -document.getElementById('')                          "id"
+        -document.getElementsByClassName('')                  "class"
+        -document.getElementsByName('')                       "name"
+        -document.getElementsByTagName('')                    "array de div. Todos las etiquetas id, class y name"
+
 */
 
 // Yo quiero acceder a la cabecera
