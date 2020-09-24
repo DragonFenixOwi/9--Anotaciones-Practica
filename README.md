@@ -1,8 +1,27 @@
-# 9--Anotaciones-Practica
-  - Ejemplo Solido de CALLBACK 
-  -  DOM  
-      - 4 maneras de acceder al DOM
-      - Creación de nodos
-      - Contactar CSS  
-       - Eventos (Dinamismo por interaccion externa del usuario,  
-       - Atributos
+# 9-Anotaciones-Practica
+  - Atributos del DOM
+      - "document.getElementById"
+      - ".href"
+      - ".src"
+      
+  - Creación de Nodos
+      - Crear nodo
+      - Añadir Nodo como hijo
+      - Eliminación de Nodos 
+   
+  - Miercoles
+      - Contactar CSS
+      - Modificar
+      - Evento (dinamismo)
+      - Varios Eventos
+      
+  
+  
+  -  Módulos  
+      - Math.random
+      - Lineas de acción
+      - DOM
+        - 4 maneras de acceder al DOM
+    
+   - Nuevo
+      - Ejemplo Sólido de CALLBACK 
