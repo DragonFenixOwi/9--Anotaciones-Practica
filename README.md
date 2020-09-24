@@ -1,4 +1,15 @@
 # 9-Anotaciones-Practica
+
+
+## Index.html
+  - "script src" que trae la libreria de *JQuery*
+  
+  - Formulario
+     - Explicación de la palabra reservada "number" para validar dato introducido (validar el input)
+  
+  - h3 y strong
+  
+## Carpeta js de JavaScript
   - Atributos del DOM
       - "document.getElementById"
       - ".href"
